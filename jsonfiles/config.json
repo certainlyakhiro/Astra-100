@@ -1,0 +1,22 @@
+{
+  "fcaOptions": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "logLevel": "silent",
+    "updatePresence": true,
+    "selfListen": true,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "online": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead":false
+  },
+  "timeZone": "Asia/Manila",
+  "botName": "Astra",
+  "botUser": "Rui",
+  "botPrefix": "×",
+  "botAdmins": [
+    100054298824923,
+    61554222594723,
+    100075058221244
+  ]
+}
